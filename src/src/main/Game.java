@@ -6,6 +6,7 @@ public class Game {
 Player player1;
 Player player2;
 
+// Se crea el constructor.
 public Game() {
 player1=new Player("A");
 player2=new Player("B");
